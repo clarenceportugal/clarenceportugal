@@ -5,7 +5,7 @@
 
   <p>
     Building modern <b>web</b>, <b>mobile</b>, and <b>IoT</b> systems<br />
-    from the Philippines ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· BSIT ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· University of Camarines Norte
+    from the Philippines ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· BSIT ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· University of Camarines Norte
   </p>
 
   <p>
@@ -34,7 +34,7 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   </tr>
   <tr>
     <td><b>Education</b></td>
-    <td>BS Information Technology ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â University of Camarines Norte (2022ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ2026)</td>
+    <td>BS Information Technology ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â University of Camarines Norte (2022ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“2026)</td>
   </tr>
   <tr>
     <td><b>Location</b></td>
@@ -42,7 +42,7 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>Web ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Mobile ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· IoT ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Machine Learning</td>
+    <td>Web ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Mobile ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· IoT ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Machine Learning</td>
   </tr>
 </table>
 
@@ -60,43 +60,43 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">ARICE</a></b></td>
     <td><code>Freelance</code> <code>App/IoT</code></td>
-    <td>Flutter ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ESP32 ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Arduino</td>
+    <td>Flutter ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ESP32 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Arduino</td>
     <td>Automated rice dispenser with mobile control</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">EduVision</a></b></td>
     <td><code>School</code> <code>Website</code></td>
-    <td>React ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Python ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ML</td>
+    <td>React ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Python ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ML</td>
     <td>AI facial recognition attendance system</td>
   </tr>
   <tr>
     <td><b><a href="https://likhain.vercel.app">Likhain</a></b></td>
     <td><code>Personal</code> <code>Website</code></td>
-    <td>React ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Firebase</td>
+    <td>React ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Firebase</td>
     <td>Creative poetry publishing platform</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">Tacoma POS</a></b></td>
     <td><code>Freelance</code> <code>Website</code></td>
-    <td>Next.js ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· MySQL</td>
+    <td>Next.js ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· MySQL</td>
     <td>POS & inventory for beverage distribution</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">AA2000 Portal</a></b></td>
     <td><code>OJT</code> <code>Website</code></td>
-    <td>React ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Vite</td>
+    <td>React ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· TypeScript ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Vite</td>
     <td>Enterprise portal with role-based access</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">PinyaCure</a></b></td>
     <td><code>Freelance</code> <code>App</code></td>
-    <td>Flutter ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· CNN ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ML</td>
+    <td>Flutter ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· CNN ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· ML</td>
     <td>Pineapple disease detection via image AI</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">SnapDefect</a></b></td>
     <td><code>Freelance</code> <code>App</code></td>
-    <td>Flutter ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Computer Vision</td>
+    <td>Flutter ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Computer Vision</td>
     <td>Weld defect recognition mobile app</td>
   </tr>
 </table>
@@ -217,16 +217,16 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
 ## Experience
 
 ```text
-AA2000 Security and Technology Solutions Inc. ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Mandaluyong City
-Full-Stack Developer Intern ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Feb 2026 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ May 2026
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Built AA2000 Portal (role-based enterprise access)
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Integrated TechNcode, Sales Quotation, RDIS, KPI
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Modernized e-commerce platform (React + Vite)
+AA2000 Security and Technology Solutions Inc. ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Mandaluyong City
+Full-Stack Developer Intern ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Feb 2026 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ May 2026
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Built AA2000 Portal (role-based enterprise access)
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Integrated TechNcode, Sales Quotation, RDIS, KPI
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Modernized e-commerce platform (React + Vite)
 
-Freelance Full-Stack Developer ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· 2024 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ Present
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ PinyaCure & SnapDefect ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Flutter ML mobile apps
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ Tacoma ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Next.js POS & inventory system
-ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ ARICE ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Flutter + ESP32 IoT solution
+Freelance Full-Stack Developer ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· 2024 ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ Present
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ PinyaCure & SnapDefect ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Flutter ML mobile apps
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ Tacoma ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Next.js POS & inventory system
+ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ ARICE ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â Flutter + ESP32 IoT solution
 ```
 
 ---
@@ -235,8 +235,8 @@ Freelance Full-Stack Developer ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· 2024
 
 | Certificate | Issuer | Date |
 |:------------|:-------|:-----|
-| **Computer Systems Servicing NC II** | TESDA ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· St. Claire Institute of Arts and Technology Inc. | Sep 2025 |
-| **TOPCIT Certificate** | IITP ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Camarines Norte State College | Jun 2025 |
+| **Computer Systems Servicing NC II** | TESDA ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· St. Claire Institute of Arts and Technology Inc. | Sep 2025 |
+| **TOPCIT Certificate** | IITP ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· Camarines Norte State College | Jun 2025 |
 
 ---
 
@@ -247,8 +247,8 @@ Freelance Full-Stack Developer ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· 2024
   <br /><br />
   <img src="./assets/github-streak.svg" alt="GitHub streak" />
   <br /><br />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarenceportugal&theme=github_dark" alt="Top languages by repos" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarenceportugal&theme=github_dark" alt="Top languages by commits" />
+  <img src="./assets/top-languages.svg" alt="Top languages by repo with percentages" />
+  <img src="./assets/top-languages-code.svg" alt="Top languages by code with percentages" />
   <br /><br />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarenceportugal&bg_color=0d1117&color=14b8a6&line=14b8a6&point=2dd4bf&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
@@ -273,6 +273,6 @@ Freelance Full-Stack Developer ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â· 2024
 
 <br /><br />
 
-<sub>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© 2026 Clarence Portugal</sub>
+<sub>ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â© 2026 Clarence Portugal</sub>
 
 </div>
