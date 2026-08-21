@@ -240,11 +240,14 @@ Freelance Full-Stack Developer · 2024 – Present
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=clarenceportugal&show_icons=true&theme=transparent&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=8B949E&ring_color=14B8A6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenceportugal&layout=compact&theme=transparent&hide_border=true&title_color=14B8A6&text_color=8B949E" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=clarenceportugal&label=Profile%20views&style=for-the-badge&color=14b8a6" alt="Profile views" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=clarenceportugal&theme=transparent&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarenceportugal&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 ---
