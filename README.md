@@ -5,7 +5,7 @@
 
   <p>
     Building modern <b>web</b>, <b>mobile</b>, and <b>IoT</b> systems<br />
-    from the Philippines · BSIT · University of Camarines Norte
+    from the Philippines Â· BSIT Â· University of Camarines Norte
   </p>
 
   <p>
@@ -34,7 +34,7 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   </tr>
   <tr>
     <td><b>Education</b></td>
-    <td>BS Information Technology — University of Camarines Norte (2022–2026)</td>
+    <td>BS Information Technology â€” University of Camarines Norte (2022â€“2026)</td>
   </tr>
   <tr>
     <td><b>Location</b></td>
@@ -42,7 +42,7 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>Web · Mobile · IoT · Machine Learning</td>
+    <td>Web Â· Mobile Â· IoT Â· Machine Learning</td>
   </tr>
 </table>
 
@@ -60,43 +60,43 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">ARICE</a></b></td>
     <td><code>Freelance</code> <code>App/IoT</code></td>
-    <td>Flutter · ESP32 · Arduino</td>
+    <td>Flutter Â· ESP32 Â· Arduino</td>
     <td>Automated rice dispenser with mobile control</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">EduVision</a></b></td>
     <td><code>School</code> <code>Website</code></td>
-    <td>React · Python · ML</td>
+    <td>React Â· Python Â· ML</td>
     <td>AI facial recognition attendance system</td>
   </tr>
   <tr>
     <td><b><a href="https://likhain.vercel.app">Likhain</a></b></td>
     <td><code>Personal</code> <code>Website</code></td>
-    <td>React · TypeScript · Firebase</td>
+    <td>React Â· TypeScript Â· Firebase</td>
     <td>Creative poetry publishing platform</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">Tacoma POS</a></b></td>
     <td><code>Freelance</code> <code>Website</code></td>
-    <td>Next.js · TypeScript · MySQL</td>
+    <td>Next.js Â· TypeScript Â· MySQL</td>
     <td>POS & inventory for beverage distribution</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">AA2000 Portal</a></b></td>
     <td><code>OJT</code> <code>Website</code></td>
-    <td>React · TypeScript · Vite</td>
+    <td>React Â· TypeScript Â· Vite</td>
     <td>Enterprise portal with role-based access</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">PinyaCure</a></b></td>
     <td><code>Freelance</code> <code>App</code></td>
-    <td>Flutter · CNN · ML</td>
+    <td>Flutter Â· CNN Â· ML</td>
     <td>Pineapple disease detection via image AI</td>
   </tr>
   <tr>
     <td><b><a href="https://clarenceportugal.vercel.app/#projects">SnapDefect</a></b></td>
     <td><code>Freelance</code> <code>App</code></td>
-    <td>Flutter · Computer Vision</td>
+    <td>Flutter Â· Computer Vision</td>
     <td>Weld defect recognition mobile app</td>
   </tr>
 </table>
@@ -217,16 +217,16 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
 ## Experience
 
 ```text
-AA2000 Security and Technology Solutions Inc. — Mandaluyong City
-Full-Stack Developer Intern · Feb 2026 – May 2026
-├─ Built AA2000 Portal (role-based enterprise access)
-├─ Integrated TechNcode, Sales Quotation, RDIS, KPI
-└─ Modernized e-commerce platform (React + Vite)
+AA2000 Security and Technology Solutions Inc. â€” Mandaluyong City
+Full-Stack Developer Intern Â· Feb 2026 â€“ May 2026
+â”œâ”€ Built AA2000 Portal (role-based enterprise access)
+â”œâ”€ Integrated TechNcode, Sales Quotation, RDIS, KPI
+â””â”€ Modernized e-commerce platform (React + Vite)
 
-Freelance Full-Stack Developer · 2024 – Present
-├─ PinyaCure & SnapDefect — Flutter ML mobile apps
-├─ Tacoma — Next.js POS & inventory system
-└─ ARICE — Flutter + ESP32 IoT solution
+Freelance Full-Stack Developer Â· 2024 â€“ Present
+â”œâ”€ PinyaCure & SnapDefect â€” Flutter ML mobile apps
+â”œâ”€ Tacoma â€” Next.js POS & inventory system
+â””â”€ ARICE â€” Flutter + ESP32 IoT solution
 ```
 
 ---
@@ -235,8 +235,8 @@ Freelance Full-Stack Developer · 2024 – Present
 
 | Certificate | Issuer | Date |
 |:------------|:-------|:-----|
-| **Computer Systems Servicing NC II** | TESDA · St. Claire Institute of Arts and Technology Inc. | Sep 2025 |
-| **TOPCIT Certificate** | IITP · Camarines Norte State College | Jun 2025 |
+| **Computer Systems Servicing NC II** | TESDA Â· St. Claire Institute of Arts and Technology Inc. | Sep 2025 |
+| **TOPCIT Certificate** | IITP Â· Camarines Norte State College | Jun 2025 |
 
 ---
 
@@ -245,9 +245,7 @@ Freelance Full-Stack Developer · 2024 – Present
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=clarenceportugal&label=Profile%20views&style=for-the-badge&color=14b8a6" alt="Profile views" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=clarenceportugal&theme=transparent&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-  <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarenceportugal&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarenceportugal&bg_color=0d1117&color=14b8a6&line=14b8a6&point=2dd4bf&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 ---
@@ -270,6 +268,6 @@ Freelance Full-Stack Developer · 2024 – Present
 
 <br /><br />
 
-<sub>© 2026 Clarence Portugal</sub>
+<sub>Â© 2026 Clarence Portugal</sub>
 
 </div>
