@@ -109,21 +109,31 @@ function dayDiff(aIso, bIso) {
   return Math.round((parseUtcDate(bIso) - parseUtcDate(aIso)) / 86400000)
 }
 
-/** Fetch every contribution day from account creation via GitHub GraphQL. */
-async function fetchContributionDays() {
-  const meta = await graphql(
-    `query($login: String!) {
-      user(login: $login) {
-        createdAt
-        contributionsCollection {
-          contributionCalendar { totalContributions }
-        }
-      }
-    }`,
-    { login: USER }
-  )
+/** Confirm the token belongs to the profile user (needed for private stats). */
+async function assertAuthenticatedAsUser() {
+  const data = await graphql(`query { viewer { login } }`)
+  const login = data.viewer?.login
+  if (!login) throw new Error('GraphQL viewer.login missing — check PROFILE_STATS_TOKEN')
+  if (login.toLowerCase() !== USER.toLowerCase()) {
+    throw new Error(
+      `Token is logged in as "${login}", expected "${USER}". Use a PAT from your own account.`
+    )
+  }
+  console.log(`Authenticated as ${login} (includes private contribution data when available)`)
+}
 
-  const createdAt = new Date(meta.user.createdAt)
+/** Fetch every contribution day from account creation via GitHub GraphQL (viewer = your account). */
+async function fetchContributionDays() {
+  const meta = await graphql(`query {
+    viewer {
+      createdAt
+      contributionsCollection {
+        contributionCalendar { totalContributions }
+      }
+    }
+  }`)
+
+  const createdAt = new Date(meta.viewer.createdAt)
   const startYear = createdAt.getUTCFullYear()
   const endYear = new Date().getUTCFullYear()
   const days = []
@@ -132,8 +142,8 @@ async function fetchContributionDays() {
     const from = `${year}-01-01T00:00:00Z`
     const to = `${year}-12-31T23:59:59Z`
     const data = await graphql(
-      `query($login: String!, $from: DateTime!, $to: DateTime!) {
-        user(login: $login) {
+      `query($from: DateTime!, $to: DateTime!) {
+        viewer {
           contributionsCollection(from: $from, to: $to) {
             contributionCalendar {
               weeks {
@@ -146,10 +156,10 @@ async function fetchContributionDays() {
           }
         }
       }`,
-      { login: USER, from, to }
+      { from, to }
     )
 
-    const weeks = data.user.contributionsCollection.contributionCalendar.weeks
+    const weeks = data.viewer.contributionsCollection.contributionCalendar.weeks
     for (const week of weeks) {
       for (const day of week.contributionDays) {
         days.push({
@@ -160,7 +170,6 @@ async function fetchContributionDays() {
     }
   }
 
-  // Deduplicate by date (year boundaries can overlap in calendar weeks)
   const byDate = new Map()
   for (const day of days) byDate.set(day.date, day)
   return [...byDate.values()].sort((a, b) => a.date.localeCompare(b.date))
@@ -368,18 +377,25 @@ ${bars}
 }
 
 async function fetchAllRepos() {
+  // /user/repos includes private repos when PROFILE_STATS_TOKEN has `repo` scope.
+  // /users/{user}/repos is public-only and looks "hardcoded"/skewed.
   const repos = []
   let page = 1
   while (true) {
     const batch = await gh(
-      `https://api.github.com/users/${USER}/repos?per_page=100&type=owner&page=${page}`
+      `https://api.github.com/user/repos?per_page=100&affiliation=owner&visibility=all&page=${page}`
     )
     if (!batch.length) break
     repos.push(...batch)
     page += 1
-    if (page > 10) break
+    if (page > 20) break
   }
-  return repos.filter((r) => !r.fork)
+  const owned = repos.filter((r) => !r.fork)
+  const privateCount = owned.filter((r) => r.private).length
+  console.log(
+    `Fetched ${owned.length} owned non-fork repos (${privateCount} private) for language stats`
+  )
+  return owned
 }
 
 async function updateLanguages() {
@@ -411,7 +427,9 @@ async function updateLanguages() {
 
   writeFileSync(join(ASSETS, 'top-languages.svg'), buildBarsSvg('Top Languages by Repo', topRepo))
   writeFileSync(join(ASSETS, 'top-languages-code.svg'), buildBarsSvg('Top Languages by Code', topCode))
-  console.log('Updated language SVGs from GitHub REST API')
+  console.log(
+    `Updated language SVGs from GitHub API: repo=[${topRepo.map((r) => r.name).join(', ')}] code=[${topCode.map((r) => r.name).join(', ')}]`
+  )
 }
 
 async function updateContributionWidgets() {
@@ -425,6 +443,7 @@ async function updateContributionWidgets() {
 }
 
 mkdirSync(ASSETS, { recursive: true })
+await assertAuthenticatedAsUser()
 await updateLanguages()
 await updateContributionWidgets()
-console.log('Done — all GitHub Activity cards sourced from GitHub APIs')
+console.log('Done — cards regenerated from live GitHub APIs (not hardcoded)')

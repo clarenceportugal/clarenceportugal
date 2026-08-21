@@ -28,11 +28,15 @@ jobs:
 
       - name: Regenerate stats cards from your GitHub account
         env:
-          # Prefer a Personal Access Token so private contributions (if shown on your profile) are included.
-          # Fallback: default Actions token (public contributions only).
-          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Must be your Personal Access Token (PROFILE_STATS_TOKEN), not the Actions bot token.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           GITHUB_USERNAME: clarenceportugal
-        run: node scripts/update-stats.mjs
+        run: |
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "Missing PROFILE_STATS_TOKEN secret. Add it under Settings > Secrets > Actions."
+            exit 1
+          fi
+          node scripts/update-stats.mjs
 
       - name: Commit and push if changed
         run: |
