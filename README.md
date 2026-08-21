@@ -190,15 +190,17 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
 
 ## GitHub Activity
 
+<!-- Streak, languages, and contribution graph are generated from GitHub REST/GraphQL APIs via .github/workflows/update-readme-stats.yml -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=clarenceportugal&label=Profile%20views&style=for-the-badge&color=14b8a6" alt="Profile views" />
   <br /><br />
-  <img src="./assets/github-streak.svg" alt="GitHub streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub streak from GitHub GraphQL" />
   <br /><br />
-  <img src="./assets/top-languages.svg" alt="Top languages by repo with percentages" />
-  <img src="./assets/top-languages-code.svg" alt="Top languages by code with percentages" />
+  <img src="./assets/top-languages.svg" alt="Top languages by repo from GitHub API" />
+  <img src="./assets/top-languages-code.svg" alt="Top languages by code from GitHub API" />
   <br /><br />
-  <img width="100%" src="./assets/contribution-graph.svg" alt="Contribution graph" />
+  <img width="100%" src="./assets/contribution-graph.svg" alt="Contribution graph from GitHub GraphQL" />
 </div>
 
 ---
