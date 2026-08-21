@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Regenerates GitHub streak + top-language SVGs for the profile README.
- * Intended to run in GitHub Actions on a schedule.
+ * Regenerates GitHub streak, contribution graph, and top-language SVGs
+ * for the profile README. Intended to run in GitHub Actions on a schedule.
  */
 import { writeFileSync, mkdirSync } from 'node:fs'
 import { dirname, join } from 'node:path'
@@ -161,7 +161,32 @@ async function updateStreak() {
   throw lastError || new Error('Failed to update streak SVG')
 }
 
+async function updateContributionGraph() {
+  const urls = [
+    `https://github-readme-activity-graph.vercel.app/graph?username=${USER}&bg_color=0d1117&color=14b8a6&line=14b8a6&point=2dd4bf&area=true&hide_border=true&custom_title=Contribution%20Graph`,
+    `https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=github-dark&area=true&hide_border=true&custom_title=Contribution%20Graph`
+  ]
+
+  let lastError
+  for (const url of urls) {
+    try {
+      const res = await fetch(url)
+      if (!res.ok) throw new Error(`${res.status} ${url}`)
+      const svg = await res.text()
+      if (!svg.includes('<svg')) throw new Error(`Invalid SVG from ${url}`)
+      writeFileSync(join(ASSETS, 'contribution-graph.svg'), svg)
+      console.log(`Updated contribution graph from ${url}`)
+      return
+    } catch (err) {
+      lastError = err
+      console.warn(String(err))
+    }
+  }
+  throw lastError || new Error('Failed to update contribution graph')
+}
+
 mkdirSync(ASSETS, { recursive: true })
 await updateLanguages()
 await updateStreak()
+await updateContributionGraph()
 console.log('Done')

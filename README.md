@@ -198,7 +198,7 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
   <img src="./assets/top-languages.svg" alt="Top languages by repo with percentages" />
   <img src="./assets/top-languages-code.svg" alt="Top languages by code with percentages" />
   <br /><br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clarenceportugal&bg_color=0d1117&color=14b8a6&line=14b8a6&point=2dd4bf&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img width="100%" src="./assets/contribution-graph.svg" alt="Contribution graph" />
 </div>
 
 ---
