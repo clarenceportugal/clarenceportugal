@@ -277,9 +277,10 @@ function buildStreakSvg(stats) {
 }
 
 function buildContributionGraphSvg(days) {
-  // Last ~52 weeks of daily totals, then aggregate by week for a clean line chart
+  // Rolling last ~52 weeks, capped at today (GraphQL year calendars include future zero-days)
+  const todayIso = new Date().toISOString().slice(0, 10)
   const cutoff = new Date(Date.now() - 52 * 7 * 86400000).toISOString().slice(0, 10)
-  const recent = days.filter((d) => d.date >= cutoff)
+  const recent = days.filter((d) => d.date >= cutoff && d.date <= todayIso)
   const weeks = []
   for (let i = 0; i < recent.length; i += 7) {
     const slice = recent.slice(i, i + 7)
