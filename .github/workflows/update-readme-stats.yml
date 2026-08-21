@@ -1,0 +1,45 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-stats.mjs'
+      - '.github/workflows/update-readme-stats.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate streak and language cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: clarenceportugal
+        run: node scripts/update-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-streak.svg assets/top-languages.svg assets/top-languages-code.svg
+          if git diff --cached --quiet; then
+            echo "No stats changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh GitHub streak and top languages"
+          git push

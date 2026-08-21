@@ -1,0 +1,8 @@
+{
+  "name": "clarenceportugal-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-stats": "node scripts/update-stats.mjs"
+  }
+}
