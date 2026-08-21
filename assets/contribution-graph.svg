@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="GitHub contribution graph from GitHub API">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="GitHub contribution graph from GitHub API">
   <rect width="1200" height="420" rx="12" fill="#0D1117" stroke="#30363D"/>
   <text x="600" y="36" fill="#14B8A6" font-size="22" font-weight="700" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Contribution Graph</text>
-  <text x="600" y="58" fill="#8B949E" font-size="13" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">273 contributions in the last year · sourced from GitHub GraphQL</text>
+  <text x="600" y="58" fill="#8B949E" font-size="13" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">273 contributions in the last year Â| sourced from GitHub GraphQL</text>
 
   <line x1="56" y1="72.0" x2="1172" y2="72.0" stroke="#30363D" stroke-dasharray="4 6"/>
   <text x="46" y="76.0" fill="#8B949E" font-size="12" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">106</text>

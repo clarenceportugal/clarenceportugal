@@ -328,7 +328,7 @@ function buildContributionGraphSvg(days) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="GitHub contribution graph from GitHub API">
   <rect width="${width}" height="${height}" rx="12" fill="${BG}" stroke="${BORDER}"/>
   <text x="${width / 2}" y="36" fill="${TEAL}" font-size="22" font-weight="700" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Contribution Graph</text>
-  <text x="${width / 2}" y="58" fill="${MUTED}" font-size="13" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">${totalRecent} contributions in the last year · sourced from GitHub GraphQL</text>
+  <text x="${width / 2}" y="58" fill="${MUTED}" font-size="13" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">${totalRecent} contributions in the last year | sourced from GitHub GraphQL</text>
 ${grid}
   <path d="${area}" fill="${TEAL}" fill-opacity="0.18"/>
   <path d="${line}" fill="none" stroke="${TEAL}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
