@@ -6,14 +6,14 @@
   <text x="396" y="68" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" text-anchor="end">87.7%</text>
   <rect x="24" y="76" width="372" height="10" rx="5" fill="#21262D"/>
   <rect x="24" y="76" width="326" height="10" rx="5" fill="#3572A5"/>
-  <text x="24" y="108" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">C++</text>
+  <text x="24" y="108" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">TypeScript</text>
   <text x="396" y="108" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" text-anchor="end">3.5%</text>
   <rect x="24" y="116" width="372" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="116" width="13" height="10" rx="5" fill="#F34B7D"/>
-  <text x="24" y="148" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">TypeScript</text>
+  <rect x="24" y="116" width="13" height="10" rx="5" fill="#3178C6"/>
+  <text x="24" y="148" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">C++</text>
   <text x="396" y="148" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" text-anchor="end">3.5%</text>
   <rect x="24" y="156" width="372" height="10" rx="5" fill="#21262D"/>
-  <rect x="24" y="156" width="13" height="10" rx="5" fill="#3178C6"/>
+  <rect x="24" y="156" width="13" height="10" rx="5" fill="#F34B7D"/>
   <text x="24" y="188" fill="#C9D1D9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Dart</text>
   <text x="396" y="188" fill="#8B949E" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" text-anchor="end">3.4%</text>
   <rect x="24" y="196" width="372" height="10" rx="5" fill="#21262D"/>
