@@ -43,7 +43,6 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
 | **[ARICE](https://clarenceportugal.vercel.app/#projects)** | Freelance / App+IoT | Flutter, ESP32, Arduino | Automated rice dispenser with mobile control |
 | **[EduVision](https://clarenceportugal.vercel.app/#projects)** | School / Website | React, Python, ML | AI facial recognition attendance system |
 | **[Likhain](https://likhain.vercel.app)** | Personal / Website | React, TypeScript, Firebase | Creative poetry publishing platform |
-| **[Tacoma POS](https://clarenceportugal.vercel.app/#projects)** | Freelance / Website | Next.js, TypeScript, MySQL | POS and inventory for beverage distribution |
 | **[AA2000 Portal](https://clarenceportugal.vercel.app/#projects)** | OJT / Website | React, TypeScript, Vite | Enterprise portal with role-based access |
 | **[PinyaCure](https://clarenceportugal.vercel.app/#projects)** | Freelance / App | Flutter, CNN, ML | Pineapple disease detection via image AI |
 | **[SnapDefect](https://clarenceportugal.vercel.app/#projects)** | Freelance / App | Flutter, Computer Vision | Weld defect recognition mobile app |
@@ -187,7 +186,6 @@ IT professional proficient in **React**, **Next.js**, **Node.js**, **Expo React 
 *2024 - Present*
 
 - PinyaCure and SnapDefect - Flutter ML mobile apps
-- Tacoma - Next.js POS and inventory system
 - ARICE - Flutter + ESP32 IoT solution
 
 ---
